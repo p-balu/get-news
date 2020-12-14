@@ -1,14 +1,14 @@
-import React, { Component } from 'react';
-import './App.css';
-import { HashRouter, Switch, Route } from 'react-router-dom';
-import Sports from './Sports.js';
-import Business from './Business.js';
-import Entertainment from './Entertainment.js';
-import Home from './Home.js';
-import Health from './Health.js';
-import Science from './Science.js';
-import Technology from './Technology.js';
-import Results from './Results.js';
+import React, { Component } from "react";
+import "./App.css";
+import { HashRouter, Switch, Route } from "react-router-dom";
+import Sports from "./Sports.js";
+import Business from "./Business.js";
+import Entertainment from "./Entertainment.js";
+import Home from "./Home.js";
+import Health from "./Health.js";
+import Science from "./Science.js";
+import Technology from "./Technology.js";
+import Results from "./Results.js";
 export default class App extends Component {
   render() {
     return (
